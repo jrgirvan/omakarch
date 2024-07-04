@@ -1,1 +1,0 @@
-yay -S yofi-bin
