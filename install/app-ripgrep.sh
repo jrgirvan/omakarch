@@ -1,1 +1,1 @@
-sudo pacman -S repgrep
+sudo pacman -S ripgrep
